@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiFragmentDinamico</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_detalle">Detalle</string>
+    <string name="texto_nombre">Nombre</string>
+    <string name="texto_telefono">Telefono</string>
+    <string name="texto_twitter">Twitter</string>
+    <string name="texto_correo">Correo</string>
+</resources>
